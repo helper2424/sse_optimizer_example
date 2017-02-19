@@ -1,4 +1,4 @@
-## Example of asembler injection with SSE for calculations speedy
+## Example of assembler injection with SSE for calculations speedy
 
 We have file `test` with 1gb of data. There are some randoms bytes.
 
